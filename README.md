@@ -5,6 +5,7 @@ In this repository, you can find an implementation in C++ of the most common alg
 ```
 git clone https://github.com/mounalbaccouch/Autonomous-Robots-Algo
 cd Autonomous-Robots-Algo/
+git clone https://github.com/lava/matplotlib-cpp lib/matplotlib-cpp/
 mkdir -p build/Images
 cd build/
 cmake ../
