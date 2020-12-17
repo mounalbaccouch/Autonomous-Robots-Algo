@@ -4,7 +4,9 @@ In this repository, you can find an implementation in C++ of the most common alg
 ## Building and running ##
 ```
 git clone https://github.com/mounalbaccouch/Autonomous-Robots-Algo
-cd Autonomous-Robots-Algo/build
+cd Autonomous-Robots-Algo/
+mkdir -p build/Images
+cd build/
 cmake ../
 make
 ```
